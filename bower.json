@@ -1,0 +1,20 @@
+{
+  "name": "my_project",
+  "description": "none",
+  "main": "index.html",
+  "authors": [
+    "Vi <empbrsty@yandex.ru>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "none"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
